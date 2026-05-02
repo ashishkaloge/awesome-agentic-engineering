@@ -1,0 +1,58 @@
+name: Resource suggestion
+description: Suggest a public resource for the Awesome List.
+title: "[resource]: "
+labels: ["resource", "review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest public resources with clear engineering value for AI coding agents.
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: "Example: AGENTS.md"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Public URL
+      placeholder: "https://example.com/"
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Suggested section
+      options:
+        - Coding Agents
+        - Agent Rules And Memories
+        - Claude Code
+        - Codex
+        - Cursor
+        - MCP Servers
+        - Skills And Plugins
+        - Code Review Workflows
+        - Testing And Verification
+        - Security And Sandboxing
+        - Prompt Patterns
+        - Case Studies
+        - Learning Resources
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Awesome List description
+      description: Use one sentence that starts with a capital letter and ends with a period.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: This is a clean public link and does not include private files, secrets, suspicious tooling, or abusive automation.
+          required: true
