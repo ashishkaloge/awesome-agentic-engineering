@@ -1,0 +1,32 @@
+name: Link quality issue
+description: Report a broken, stale, duplicated, or unsafe link.
+title: "[link]: "
+labels: ["link-quality", "maintenance"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://example.com/"
+    validations:
+      required: true
+  - type: dropdown
+    id: issue
+    attributes:
+      label: Issue type
+      options:
+        - Broken link
+        - Redirect or stale canonical URL
+        - Duplicated resource
+        - Low-signal resource
+        - Safety concern
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain what should change and why.
+    validations:
+      required: true
