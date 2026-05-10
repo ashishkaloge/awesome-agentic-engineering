@@ -91,6 +91,7 @@ coding agents.
 - [Jest](https://jestjs.io/) - Runs JavaScript tests with snapshots, mocks, and watch mode.
 - [OpenAI Evals](https://github.com/openai/evals) - Provides a framework for measuring model behavior and task performance.
 - [Playwright](https://playwright.dev/) - Automates browser testing across Chromium, Firefox, and WebKit.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Inspects local AI coding agent sessions to compare cost, tokens, elapsed time, and slow-run diagnostics.
 - [pytest](https://docs.pytest.org/en/stable/) - Runs Python tests with fixtures, parametrization, and plugin support.
 - [SWE-bench](https://www.swebench.com/) - Benchmarks coding agents on real-world software engineering tasks.
 - [Vitest](https://vitest.dev/) - Provides a fast Vite-native test runner for JavaScript and TypeScript projects.
