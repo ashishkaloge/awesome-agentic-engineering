@@ -88,6 +88,7 @@ coding agents.
 
 ## Testing And Verification
 
+- [ax](https://github.com/Necmttn/ax) - Tracks local coding-agent sessions, costs, skills, routing, hooks, and verification history across Claude Code, Codex, and related tools.
 - [Jest](https://jestjs.io/) - Runs JavaScript tests with snapshots, mocks, and watch mode.
 - [OpenAI Evals](https://github.com/openai/evals) - Provides a framework for measuring model behavior and task performance.
 - [Playwright](https://playwright.dev/) - Automates browser testing across Chromium, Firefox, and WebKit.
