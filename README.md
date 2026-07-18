@@ -1,11 +1,16 @@
-# Awesome Agentic Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Coding Agent Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tools, workflows, prompts, rules, MCP servers, skills,
-plugins, testing practices, security patterns, and engineering workflows for AI
-coding agents.
+An opinionated, reviewed guide to building reliable AI coding agents. It
+focuses on repository rules, coding workflows, tool connections, verification,
+and safe execution instead of trying to list every AI agent resource.
+
+**Last reviewed:** July 18, 2026. The list is reviewed monthly and when a linked
+project changes in a way that affects its recommendation.
 
 ## Contents
 
+- [Start Here](#start-here)
+- [How This List Is Curated](#how-this-list-is-curated)
 - [Coding Agents](#coding-agents)
 - [Agent Rules And Memories](#agent-rules-and-memories)
 - [Claude Code](#claude-code)
@@ -19,6 +24,38 @@ coding agents.
 - [Prompt Patterns](#prompt-patterns)
 - [Case Studies](#case-studies)
 - [Learning Resources](#learning-resources)
+- [Related Public Projects](#related-public-projects)
+
+## Start Here
+
+Use these six topics as a practical path from agent setup to safe execution
+and verification:
+
+**Project instructions.** Give the agent clear repository rules and durable context.
+
+**Coding workflow.** Learn a repository-aware working loop from an agent provider.
+
+**Permission boundaries.** Understand sandboxing, approvals, and command execution.
+
+**Tool connections.** Expose tools and context through MCP, then inspect them.
+
+**Verification.** Test the changed system instead of trusting generated code.
+
+**Security.** Check secrets, dependencies, and execution risk before release.
+
+## How This List Is Curated
+
+- A resource must help build, configure, test, secure, or operate an AI coding
+  agent.
+- Official documentation, canonical repositories, and actively maintained
+  projects are preferred.
+- Every description must explain a concrete engineering use.
+- Generic AI directories, marketing-only pages, duplicate resources, and stale
+  projects are left out.
+
+The goal is a smaller list that helps an engineer make a decision, not a large
+collection of links.
+
 
 ## Coding Agents
 
@@ -127,6 +164,12 @@ coding agents.
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/specification) - Documents MCP protocol concepts for tools, resources, prompts, and transports.
 - [OpenAI Agents Guide](https://developers.openai.com/api/docs/guides/agents) - Covers OpenAI agent design, tool use, guardrails, and orchestration.
 - [The Twelve-Factor Agent](https://github.com/humanlayer/12-factor-agents) - Adapts durable software engineering principles to LLM-powered agents.
+
+## Related Public Projects
+
+- [Algo Trading Website](https://github.com/ashishkaloge/algo-trading-website) - A real landing-page starter built with semantic HTML, CSS primitives, and vanilla JavaScript.
+- [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines#readme) - Reusable rules for coding agents working in real repositories.
+- [Production Launch Prompts](https://github.com/ashishkaloge/production-launch-prompts) - Review prompts and scorecards for checking software before launch.
 
 ## Contributing
 
