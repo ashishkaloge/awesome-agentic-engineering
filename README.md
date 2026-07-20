@@ -125,6 +125,7 @@ collection of links.
 
 ## Testing And Verification
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Analyzes local AI coding agent sessions for estimated cost, token use, elapsed time, and slow run details. Maintained by [@luoyuctl](https://github.com/luoyuctl).
 - [Jest](https://jestjs.io/) - Runs JavaScript tests with snapshots, mocks, and watch mode.
 - [OpenAI Evals](https://github.com/openai/evals) - Provides a framework for measuring model behavior and task performance.
 - [Playwright](https://playwright.dev/) - Automates browser testing across Chromium, Firefox, and WebKit.
