@@ -87,6 +87,7 @@ collection of links.
 - [Codex AGENTS.md](https://developers.openai.com/codex/guides/agents-md) - Shows how repository instructions are discovered and merged.
 - [Codex Configuration](https://developers.openai.com/codex/config-basic) - Documents provider, sandboxing, MCP, and runtime configuration.
 - [Codex MCP](https://developers.openai.com/codex/mcp) - Connects Codex to external tools and data through Model Context Protocol.
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Provides a community tool for named CODEX_HOME folders and separate local ChatGPT app data on macOS without copying tokens.
 - [Codex Sandbox](https://developers.openai.com/codex/concepts/sandboxing) - Explains local sandboxing, approvals, and command execution controls.
 - [Codex Security](https://developers.openai.com/codex/security) - Describes security controls and threat-model guidance for Codex.
 
