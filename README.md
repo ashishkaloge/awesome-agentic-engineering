@@ -103,6 +103,7 @@ collection of links.
 
 ## MCP Servers
 
+- [Aident Loadout](https://aident.ai/) - Connects Claude Code, Codex, Cursor, and other MCP clients to connected apps and 400+ Skills through one hosted MCP endpoint, keeping credentials in a vault and logging every action.
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - Provides a Python framework for building MCP servers and clients.
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector) - Debugs MCP servers through an interactive developer tool.
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - Implements the protocol for Python MCP servers and clients.
