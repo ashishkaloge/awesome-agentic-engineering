@@ -73,7 +73,7 @@ collection of links.
 
 - [AGENTS.md](https://agents.md/) - Defines a simple project instruction file for coding agents.
 - [Claude Code Memory](https://code.claude.com/docs/en/memory) - Shows how Claude Code loads project, user, and local memory files.
-- [Coding Agent Guidelines](https://github.com/incline-ltd/coding-agent-guidelines) - Packages portable behavioral rules for Claude Code, Cursor, and AGENTS.md consumers.
+- [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines) - Packages portable behavioral rules for Claude Code, Cursor, and AGENTS.md consumers.
 - [Cursor Rules](https://cursor.com/docs/rules) - Describes project, user, and team rules and AGENTS.md support in Cursor.
 - [Evaluating AGENTS.md](https://arxiv.org/abs/2602.11988) - Benchmarks how generated and developer-written repository instructions affect coding-agent task success and inference cost.
 
@@ -177,11 +177,11 @@ collection of links.
 
 ## Related Public Projects
 
-- [Agent Cost Guard](https://github.com/incline-ltd/agent-cost-guard) - Local hook that stops supported cloud-cost commands proposed by coding agents until a person approves.
-- [Agent Policy Map](https://github.com/incline-ltd/agent-policy-map) - Models documented instruction discovery for the same file across Codex CLI, Claude Code, Cursor IDE, and GitHub Copilot CLI.
-- [Awesome Agent Instructions](https://github.com/incline-ltd/awesome-agent-instructions) - Patterns and a skill for reviewing and simplifying coding-agent instructions while preserving project constraints.
-- [Coding Agent Guidelines](https://github.com/incline-ltd/coding-agent-guidelines#readme) - Reusable rules for coding agents working in real repositories.
-- [Production Launch Prompts](https://github.com/incline-ltd/production-launch-prompts) - Review prompts and scorecards for checking software before launch.
+- [Agent Cost Guard](https://github.com/ashishkaloge/agent-cost-guard) - Local hook that stops supported cloud-cost commands proposed by coding agents until a person approves.
+- [Agent Policy Map](https://github.com/ashishkaloge/agent-policy-map) - Models documented instruction discovery for the same file across Codex CLI, Claude Code, Cursor IDE, and GitHub Copilot CLI.
+- [Awesome Agent Instructions](https://github.com/ashishkaloge/awesome-agent-instructions) - Patterns and a skill for reviewing and simplifying coding-agent instructions while preserving project constraints.
+- [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines#readme) - Reusable rules for coding agents working in real repositories.
+- [Production Launch Prompts](https://github.com/ashishkaloge/production-launch-prompts) - Review prompts and scorecards for checking software before launch.
 
 ## Contributing
 
