@@ -84,7 +84,6 @@ collection of links.
 - [Claude Code GitHub Actions](https://code.claude.com/docs/en/github-actions) - Runs Claude Code from GitHub Actions for issue and pull-request work.
 - [Claude Code Hooks](https://code.claude.com/docs/en/hooks) - Uses shell hooks to enforce checks and customize tool behavior.
 - [Claude Code Plugins](https://code.claude.com/docs/en/plugins) - Packages slash commands, agents, hooks, and MCP servers for reuse.
-- [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) - Hooks that stop coding agents from cheating on tests and block risky outbound actions, with an optional Nemotron semantic reviewer.
 
 ## Codex
 
@@ -134,6 +133,7 @@ collection of links.
 ## Testing And Verification
 
 - [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web and mobile regression tests with persistent memory through CLI and MCP interfaces.
+- [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) - Blocks test tampering edits and risky outbound commands through Claude Code, Codex CLI, and Gemini CLI hooks. Maintained by [@hahahahahahahahah6](https://github.com/hahahahahahahahah6).
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Analyzes local AI coding agent sessions for estimated cost, token use, elapsed time, and slow run details. Maintained by [@luoyuctl](https://github.com/luoyuctl).
 - [Jest](https://jestjs.io/) - Runs JavaScript tests with snapshots, mocks, and watch mode.
 - [Mneme](https://github.com/MnemeHQ/mneme) - Checks proposed code changes against declared architectural rules through agent integrations and CI. Maintained by [@TheoV823](https://github.com/TheoV823).
