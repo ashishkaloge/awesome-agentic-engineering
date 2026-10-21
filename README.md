@@ -84,6 +84,7 @@ collection of links.
 - [Claude Code GitHub Actions](https://code.claude.com/docs/en/github-actions) - Runs Claude Code from GitHub Actions for issue and pull-request work.
 - [Claude Code Hooks](https://code.claude.com/docs/en/hooks) - Uses shell hooks to enforce checks and customize tool behavior.
 - [Claude Code Plugins](https://code.claude.com/docs/en/plugins) - Packages slash commands, agents, hooks, and MCP servers for reuse.
+- [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) - Hooks that stop coding agents from cheating on tests and block risky outbound actions, with an optional Nemotron semantic reviewer.
 
 ## Codex
 
