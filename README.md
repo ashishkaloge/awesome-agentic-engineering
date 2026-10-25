@@ -104,6 +104,7 @@ collection of links.
 
 ## MCP Servers
 
+- [CodeTrendy MCP](https://codetrendy.com/mcp) - Lets coding agents search a curated directory of SaaS, AI and developer tools and find alternatives to a service over read-only remote MCP, without an API key. Paid (Verified) listings are returned first in search results.
 - [CurlShot MCP](https://curlshot.com/docs/guides/ai-agents) - Lets coding agents screenshot a deployed or preview URL in a real browser to check UI changes over remote MCP.
 - [deed.page MCP](https://deed.page/docs) - Lets coding agents publish generated HTML or a static build to a live `<slug>.deed.page` URL over remote MCP or one HTTP PUT.
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - Provides a Python framework for building MCP servers and clients.
