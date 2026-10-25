@@ -104,7 +104,7 @@ collection of links.
 
 ## MCP Servers
 
-- [CodeTrendy MCP](https://codetrendy.com/mcp) - Lets coding agents search a curated directory of SaaS, AI and developer tools and find alternatives to a service over read-only remote MCP, without an API key.
+- [CodeTrendy MCP](https://codetrendy.com/mcp) - Lets coding agents search a curated directory of SaaS, AI and developer tools and find alternatives to a service over read-only remote MCP, without an API key. Paid (Verified) listings are returned first in search results.
 - [CurlShot MCP](https://curlshot.com/docs/guides/ai-agents) - Lets coding agents screenshot a deployed or preview URL in a real browser to check UI changes over remote MCP.
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - Provides a Python framework for building MCP servers and clients.
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector) - Debugs MCP servers through an interactive developer tool.
