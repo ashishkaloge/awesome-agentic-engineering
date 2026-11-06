@@ -136,6 +136,7 @@ collection of links.
 - [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web and mobile regression tests with persistent memory through CLI and MCP interfaces.
 - [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) - Blocks test tampering edits and risky outbound commands through Claude Code, Codex CLI, and Gemini CLI hooks. Maintained by [@hahahahahahahahah6](https://github.com/hahahahahahahahah6).
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Analyzes local AI coding agent sessions for estimated cost, token use, elapsed time, and slow run details. Maintained by [@luoyuctl](https://github.com/luoyuctl).
+- [FlowSkill](https://github.com/manhquydev/flow-skill) - Gated build harness for coding agents that pairs mechanical checks with an agent semantic review, warning on `flow next` when the semantic receipt is missing or stale.
 - [Jest](https://jestjs.io/) - Runs JavaScript tests with snapshots, mocks, and watch mode.
 - [Mneme](https://github.com/MnemeHQ/mneme) - Checks proposed code changes against declared architectural rules through agent integrations and CI. Maintained by [@TheoV823](https://github.com/TheoV823).
 - [OpenAI Evals](https://github.com/openai/evals) - Provides a framework for measuring model behavior and task performance.
