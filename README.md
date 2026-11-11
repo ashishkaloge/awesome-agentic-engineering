@@ -149,6 +149,7 @@ collection of links.
 
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Detects secrets and credentials in Git repositories and files.
 - [GitHub Secret Scanning](https://docs.github.com/en/code-security/concepts/secret-security/secret-scanning) - Detects committed secrets and supported token patterns in repositories.
+- [npmscan](https://github.com/salemalem/npmscan-mcp-plugin) - Lets coding agents check npm packages for malware, known vulnerabilities, maintainer changes, and install scripts before installing them, through a remote MCP server and agent skills. Maintained by [@salemalem](https://github.com/salemalem).
 - [OpenSSF Scorecard](https://github.com/ossf/scorecard) - Checks projects for common open-source supply-chain security risks.
 - [OWASP Top 10 for LLM Applications](https://owasp.org/projects/top-10-for-large-language-model-applications) - Summarizes common security risks in LLM-powered systems.
 - [Semgrep](https://semgrep.dev/) - Finds security and correctness issues with customizable static-analysis rules.
