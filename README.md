@@ -174,6 +174,7 @@ collection of links.
 ## Learning Resources
 
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Teaches production practices for building applications with foundation models.
+- [DeepSeekDSH](https://deepseekdsh.com/) - Free DeepSeek agent harness tutorials, plugins and MCP guides for developers.
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/) - Teaches agent concepts, tools, memory, and evaluation with hands-on examples.
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/specification) - Documents MCP protocol concepts for tools, resources, prompts, and transports.
 - [OpenAI Agents Guide](https://developers.openai.com/api/docs/guides/agents) - Covers OpenAI agent design, tool use, guardrails, and orchestration.
