@@ -133,6 +133,7 @@ collection of links.
 
 ## Testing And Verification
 
+- [agentstats](https://github.com/RishabhPande/agentstats) - Compares repeated agent-benchmark runs with run-aware tests, Holm correction, and uncertainty tiers.
 - [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web and mobile regression tests with persistent memory through CLI and MCP interfaces.
 - [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) - Blocks test tampering edits and risky outbound commands through Claude Code, Codex CLI, and Gemini CLI hooks. Maintained by [@hahahahahahahahah6](https://github.com/hahahahahahahahah6).
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Analyzes local AI coding agent sessions for estimated cost, token use, elapsed time, and slow run details. Maintained by [@luoyuctl](https://github.com/luoyuctl).
