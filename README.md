@@ -122,6 +122,7 @@ collection of links.
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) - Provides Python primitives for agents, handoffs, tools, guardrails, and tracing.
 - [OpenAI Plugins](https://developers.openai.com/plugins) - Packages skills, MCP servers, and optional UI into plugins for ChatGPT and Codex.
 - [Smithery](https://smithery.ai/) - Indexes MCP servers for discovery, installation, and evaluation.
+- [HOL Plugins](https://hol.org/plugins) - Indexes plugins, skills and MCP servers for discovery across AI coding tools.
 
 ## Code Review Workflows
 
