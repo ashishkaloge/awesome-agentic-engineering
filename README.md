@@ -114,6 +114,7 @@ collection of links.
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Defines the open protocol for connecting agents to tools and context.
 - [Rune](https://github.com/thecolourfoundation/rune) - Builds a queryable codebase graph with file-and-line evidence for coding agents through MCP.
 - [Tale](https://docs.tale.dev/develop/mcp-endpoint) - Connects coding agents to a self-hosted workspace through authenticated MCP tools for knowledge retrieval and automation authoring, testing, and deployment.
+- [No Stairs Please](https://nostairsplease.com/mcp) - Remote MCP server for searching 3,400+ under-400-capacity live music venues with payout terms, acoustic details, and booking contacts.
 
 ## Skills And Plugins
 
