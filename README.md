@@ -153,6 +153,7 @@ collection of links.
 - [npmscan](https://github.com/salemalem/npmscan-mcp-plugin) - Lets coding agents check npm packages for malware, known vulnerabilities, maintainer changes, and install scripts before installing them, through a remote MCP server and agent skills. Maintained by [@salemalem](https://github.com/salemalem).
 - [OpenSSF Scorecard](https://github.com/ossf/scorecard) - Checks projects for common open-source supply-chain security risks.
 - [OWASP Top 10 for LLM Applications](https://owasp.org/projects/top-10-for-large-language-model-applications) - Summarizes common security risks in LLM-powered systems.
+- [Sandscale](https://sandscale.dev/) - Runs each coding-agent task in its own Firecracker microVM, with allow/ask/deny rules per tool, human approvals and an audit log.
 - [Semgrep](https://semgrep.dev/) - Finds security and correctness issues with customizable static-analysis rules.
 - [Socket](https://socket.dev/) - Detects supply-chain risk in open-source dependencies.
 
